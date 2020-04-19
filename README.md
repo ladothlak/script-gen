@@ -7,9 +7,9 @@ the dialogue is basically nonsense. My favorite example of this is that characte
 especially Jerry. Not uncommon to see
 
 
-*jerry: (to jerry) I'm going to head to the hospital
+*jerry: (to jerry) I'm going to head to the hospital*
 
-jerry: well I'm just saying*
+*jerry: well I'm just saying*
 
 
 The model needs more training and perhaps refinement of hyperparameters to improve these results
