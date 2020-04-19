@@ -12,4 +12,4 @@ especially Jerry. Not uncommon to see
 *jerry: well I'm just saying*
 
 
-The model needs more training and perhaps refinement of hyperparameters to improve these results
+The model needs more training and perhaps refinement of hyperparameters to improve these results.
